@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="SmartEnergyModels.CompressedAir.AirCompressor">
+    <Position X="4.5" Y="3.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAIAAAAAAAAAAAAAAAACAAAAAAACAACAAAAAAAA=</HashCode>
+      <FileName>AirCompressor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="EngineeringData" />
+      <Property Name="PerformanceData" />
+      <Property Name="ProcessData" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartEnergyModels.CompressedAir.AirCompressorEngineering">
+    <Position X="0.5" Y="5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAQAEAAAAAAIAAQAAQAAAAQAgAAAACAAAAAAAAAIAA=</HashCode>
+      <FileName>AirCompressor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartEnergyModels.CompressedAir.AirCompressorPerformance">
+    <Position X="10" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAgAAAAAAAAAAAAAQAAAAIAAAAAAAAIAA=</HashCode>
+      <FileName>AirCompressor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SmartEnergyModels.CompressedAir.AirCompressorProcess">
+    <Position X="4.5" Y="6.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAIAAAAAAEDAAgAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>AirCompressor.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Mode" />
+      <Property Name="Status" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SmartEnergyModels.SmartEnergyModel">
+    <Position X="5" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAgAAAAhAAA=</HashCode>
+      <FileName>SmartEnergyModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SmartEnergyModels.CompressedAir.AirCompressorMode">
+    <Position X="8.25" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAIAAABAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>AirCompressor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SmartEnergyModels.CompressedAir.AirCompressorStatus">
+    <Position X="11" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAIAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>AirCompressor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
