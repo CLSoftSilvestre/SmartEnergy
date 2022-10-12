@@ -43,7 +43,7 @@ namespace SmartEnergyModels.CompressedAir
         public float Pressure_Setpoint { get; set; }
         public float Instant_Pressure { get; set; }
         public float Instant_Power_Consumption { get; set; }
-        public float Instant_Debit { get; set; }
+        public float Instant_Flow { get; set; }
         public float Motor_Speed { get; set; }
     }
 

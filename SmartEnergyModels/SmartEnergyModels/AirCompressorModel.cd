@@ -29,7 +29,7 @@
   <Class Name="SmartEnergyModels.CompressedAir.AirCompressorProcess">
     <Position X="4.5" Y="6.25" Width="2.75" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAEAIAAAAAAEDAAgAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <HashCode>AAAAAAAEAMAAAAAAEDAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>AirCompressor.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
